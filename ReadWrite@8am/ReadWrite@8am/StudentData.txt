@@ -1,0 +1,10 @@
+Sandeep
+10
+Rakesh
+20
+Swatha
+30
+Narendra
+100
+Ramu
+1
